@@ -40,3 +40,8 @@ This project was developed by the following team members:
 - **[Maxime Moutet](https://www.linkedin.com/in/maximemoutet)**
 - **[Paco Goze](https://www.linkedin.com/in/paco-goze-086515174)**
 - **[Samuel Gaudin](https://www.linkedin.com/in/samuel-gaudin/)**
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
