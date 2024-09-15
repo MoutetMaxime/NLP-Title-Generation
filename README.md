@@ -14,7 +14,6 @@ The dataset contains French news articles with various topics. We were provided 
 2. `validation.csv`: Contains 1,500 news articles and their titles.
 3. `test_text.csv`: Contains 1,500 news articles for which you need to generate titles.
 
-Ensure that your submissions follow the provided format (ID, titles) to be accepted by Kaggle.
 
 ### Evaluation
 
